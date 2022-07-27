@@ -1,0 +1,58 @@
+
+body{
+    background-color: whitesmoke;
+}
+
+.contenedor{
+    background-color: rgba(248, 29, 29, 0.838);
+    margin: 30px;
+    padding: 5px;
+    color: white;
+    border: 5px;
+    border-style: solid;
+    box-shadow: 2px 2px 7px 1px #aaa;
+}
+
+.titulo{
+    color: yellow;
+    border-bottom:solid 2px;
+    border-color: black;
+    text-align: center;
+}
+
+.cuerpo{
+    margin: 20px;
+    font-size: larger;
+    background-color: gold;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.footer{
+    margin: 20px;
+    text-align: center;
+    font-size: xx-large;
+    color: yellow;
+}
+
+#papas {
+    width: 500px;
+}
+
+.pasos{
+    text-align: left;
+    color: black;
+    font-size:x-large;
+
+}
+
+.parrafos{
+    text-align: justify;
+    background-color: gold;
+    color: black;
+}
+
+#P{
+    color: black;
+    box-shadow: 3px 3px 0 0 rgba(0, 0, 0, 0.361);
+}

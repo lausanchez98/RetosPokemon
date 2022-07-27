@@ -1,0 +1,60 @@
+
+.container {
+    margin: 30px;
+    padding: 10px;
+    background-color: #fff6a4;
+    box-shadow: 8px 8px 2px 1px #737383;
+}
+
+h2 {
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #c52018;
+}
+
+.header {
+    background-color: #f6bd20;
+    border: solid #ffff;
+    border-radius: 6px;
+}
+
+.pokemon {
+    margin: 35px;
+    text-align: center;
+}
+
+.pokename {
+    font-size: 25px;
+    font-family: 'Pokemon Solid', sans-serif;
+    color: #623108;
+    
+}
+
+.pokedesc {
+    text-align: justify;
+    font-size: 20px;
+    font-family: helvetica, sans-serif;
+}
+
+.footer {
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Pokemon Solid', sans-serif;
+    color: #e65a41;
+}
+
+a {
+    font-family: Helvetica, sans-serif;
+}
+
+#growlithe a {
+    color: #c55252;
+}
+
+#marowak a {
+    color: #c53910;
+}
+
+#vaporeon a {
+    color: #104a62;
+}
