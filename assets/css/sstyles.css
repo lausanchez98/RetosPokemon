@@ -31,7 +31,7 @@ body {
 }
 
 .content img {
-    width: 800px;
+    width: 650px;
     border-radius: 9px;
 }
 
@@ -48,11 +48,41 @@ body {
     width: 50%;
 }
 
+.discod {
+    display:flex;
+    justify-content: center;
+}
+
+.discod div {
+    margin: 45px;
+    text-align: center;
+}
+
+.discod img { ;
+    width: 140px;
+}
+
 .container, .footer {
     margin: 30px;
     padding: 65px;
     background-color: aliceblue;
     text-align: center;
+}
+
+.footer {
+    margin-top: 15px;
+    padding-top: 15px;
+}
+
+.footer span {
+    font-family: ;
+    font-size: 35px;
+    color: rgb(246, 119, 28);
+}
+
+.footer p {
+    font-family: 'Sherika', sans-serif;
+    color:#090979;
 }
 
 iframe {
